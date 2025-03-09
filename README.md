@@ -1,7 +1,7 @@
-# Flutter Clean Architecture Boilerplate
+# Flutter Clean Architecture
 
-![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.1-blue?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-3.29,1-blue?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.7,0-blue?style=flat&logo=dart)
 
 ## 📌 Descripción
 
@@ -21,8 +21,8 @@ La arquitectura propuesta sigue el patrón de **Clean Architecture**, separando 
 
 ```
 /lib
-│── core/            # Funcionalidades reutilizables (helpers, constants, etc.)
-│── data/            # Capa de datos (datasources, models, repositories)
+│── core/            # Funcionalidades reutilizables (extensions, constants, etc.)
+│── data/            # Capa de datos (datasources, models)
 │── domain/          # Capa de dominio (usecases, entidades, interfaces)
 │── presentation/    # Capa de presentación (providers, vistas, widgets)
 │── main.dart        # Punto de entrada de la aplicación

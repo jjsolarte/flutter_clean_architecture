@@ -1,11 +1,13 @@
 # Flutter Clean Architecture
 
-![Flutter](https://img.shields.io/badge/Flutter-3.29,1-blue?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.7,0-blue?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-3.29.1-blue?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.7.0-blue?style=flat&logo=dart)
 
 ## 📌 Descripción
 
 Este proyecto es una aplicación de prueba desarrollada con el objetivo de implementar una **arquitectura limpia** con diversas características interesantes, sirviendo como base para un proyecto escalable y de fácil mantenimiento en Flutter.
+
+https://github.com/user-attachments/assets/63d69682-0fd7-4af1-ade8-e21f9703b49a
 
 ## 🛠️ Tecnologías y Paquetes Utilizados
 
